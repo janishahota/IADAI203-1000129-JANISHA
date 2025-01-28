@@ -43,7 +43,7 @@ To create a prototype of a Digital Nomad Travel app, that helps provide assistiv
   Fine-tuned the idea through surveys and interviews with digital nomads to understand their experiences and challenges faced during travel.   
   - **Survey Link:** [Survey Link](https://forms.gle/518wMe3hxL6NwR2D9)  
   - **Survey Responses:** [Survey Responses](https://docs.google.com/spreadsheets/d/1tITG6otd43R4-TtBVDb-YIcT344-1RnAyPfEPYYo7Ao/edit?usp=sharing)
-  - **Interview footage**
+  - **Interview footage** [https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link](https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link)
 
 #### 2. Research:
 - Explored existing technological solutions like Rome2Rio, Airbnb, Nomadago, Wise, Remote Year, etc.
@@ -181,7 +181,6 @@ The app stands out as an innovative and user-centric solution for the digital no
 3. [Inspiration for Digital Nomads](https://aicontentfy.com/en/blog/finding-inspiration-on-road-digital-nomad-quotes-to-fuel-wanderlust)
 4. [Challenges for Digital Nomads](https://ruul.io/blog/7-challenges-digital-nomads-face-and-what-to-do-about-them)
 5. Clark, H. (n.d.). The Software Development Life Cycle (SDLC): 7 Phases and 5 Models. The Product Manager. Retrieved January 15, 2024, from [The Product Manager](https://theproductmanager.com/topics/software-development-life-cycle/)
-6. [Best Apps for Digital Nomads](https://www.twoticketsanywhere.com/digital-nomad-apps/)
-
+6. [Best Apps for Digital Nomads](https://www.twoticketsanywhere.com/digital-nomad-apps/)                                                                                                                                                                                                                               
 7.[Morphological Analysis](https://www.sciencedirect.com/topics/computer-science/morphological-analysis#:~:text=Morphological%20analysis%20(MA)%20is%20a,a%20given%20multidimensional%20problem%20complex.)
 
