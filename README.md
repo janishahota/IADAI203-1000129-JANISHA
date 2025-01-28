@@ -71,7 +71,8 @@ Designing an innovative and practical app requires a mindset that combines creat
 -***Problem-Solving Focus***: Addressed commonly-faced challenges like unreliable internet and healthcare access with practical solutions like e-SIM options and wellness integrations.                                                                           
 -***Adaptability***: Adjusted features based on feedback from usability tests, ensuring relevance and usability. Ensures that my application was user-approved and that the interface was accessible.
 
-Here is a chart showing how I implemented each thinking process into my app planning.
+Here is a visual representation showing how I implemented each thinking process into my app planning.
+![Orange and White Creative Mind Map Brainstorm](https://github.com/user-attachments/assets/555b1ea4-a4a0-449f-8903-ec159e4d24ec)
 
 **c. Idea Generation and Systematic Approach:**
 - Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. (7) I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
