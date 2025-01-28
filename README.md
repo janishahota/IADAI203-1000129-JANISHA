@@ -61,7 +61,7 @@ I used various brainstorming techniques
 ****[made using canva.com]****
 
 -***SCAMPER Method***: Used this technique to innovate by substituting, combining, adapting, modifying, putting to other uses, eliminating, and rearranging existing features in current digital nomad apps.
-![SA CCT scamper](https://github.com/user-attachments/assets/60bc75ab-5a6a-4f58-8e82-a1aa77c9f3b5)
+![SA CCT scamper](https://github.com/user-attachments/assets/5fd28da0-5835-426c-abdc-661e678925c1)
 ****[made using canva.com]****
 
 **b. Developing the Mindset**
