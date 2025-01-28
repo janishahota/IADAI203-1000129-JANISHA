@@ -57,10 +57,12 @@ I used various brainstorming techniques
 - ***Lateral Thinking Approach***: Encouraged unconventional thinking to explore unique solutions, such as integrating SOS feature to enhance user safety and wellbeing.
 
 - ***Mind Maps***: Created visual maps connecting features like community building, user-friendly interface, global accessibility, and localized content to ensure holistic design.
+![Purple Colorful Organic Mind Map Brainstorm](https://github.com/user-attachments/assets/962c0efd-a0d6-44cc-9e83-a3d4de9324b3)
+****[made using canva.com]****
 
 -***SCAMPER Method***: Used this technique to innovate by substituting, combining, adapting, modifying, putting to other uses, eliminating, and rearranging existing features in current digital nomad apps.
 ![SA CCT scamper](https://github.com/user-attachments/assets/60bc75ab-5a6a-4f58-8e82-a1aa77c9f3b5)
-
+****[made using canva.com]****
 
 **b. Developing the Mindset**
 Designing an innovative and practical app requires a mindset that combines creativity with critical thinking. I adopted the following aspects to drive my thinking process:
@@ -73,6 +75,7 @@ Designing an innovative and practical app requires a mindset that combines creat
 
 Here is a visual representation showing how I implemented each thinking process into my app planning.
 ![Orange and White Creative Mind Map Brainstorm](https://github.com/user-attachments/assets/555b1ea4-a4a0-449f-8903-ec159e4d24ec)
+****[made using canva.com]****
 
 **c. Idea Generation and Systematic Approach:**
 - Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. (7) I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
@@ -80,9 +83,11 @@ Here is a visual representation showing how I implemented each thinking process 
 - I then came up with ideas under each category and reviewed each idea with my digital nomad team, who then gave me their input and suggestions, leading to the finalisation of features. The cells highlighted in green are some of the features chosen after feedback.
 <img width="787" alt="Screenshot 2025-01-28 at 7 20 27 am" src="https://github.com/user-attachments/assets/56bfc7d8-b381-4ebd-a13b-c81e13016aca" />
 
-Reasons for accepting or rejecting each cell is given in this google sheet- [https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing)
+Reasons for accepting or rejecting each cell are given in this Google sheet- [https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing)
 
-Cognitive Walkthrough- 
+-Cognitive Walkthrough: 
+![Customer Journey Graph](https://github.com/user-attachments/assets/28bf5d4b-d7ca-45b3-930d-83d1188a6107)
+****[made using canva.com]****
 
 
 #### 4. Finalized Features:
@@ -177,5 +182,6 @@ The app stands out as an innovative and user-centric solution for the digital no
 4. [Challenges for Digital Nomads](https://ruul.io/blog/7-challenges-digital-nomads-face-and-what-to-do-about-them)
 5. Clark, H. (n.d.). The Software Development Life Cycle (SDLC): 7 Phases and 5 Models. The Product Manager. Retrieved January 15, 2024, from [The Product Manager](https://theproductmanager.com/topics/software-development-life-cycle/)
 6. [Best Apps for Digital Nomads](https://www.twoticketsanywhere.com/digital-nomad-apps/)
+
 7.[Morphological Analysis](https://www.sciencedirect.com/topics/computer-science/morphological-analysis#:~:text=Morphological%20analysis%20(MA)%20is%20a,a%20given%20multidimensional%20problem%20complex.)
 
