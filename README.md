@@ -30,7 +30,7 @@ After conducting online research, as well as surveys and interviews with digital
 ---
 
 ### Goal and Objective:
-To create a prototype of a Digital Nomad Travel app, that helps provide assistive and helpful support during their travel, and minimises the challenges faced due to lack of resources or information available to them.
+To create a prototype of a Digital Nomad Travel app as a part of the RemoteVibe.Inc company, that helps provide assistive and helpful support during their travel, and minimises the challenges faced due to lack of resources or information available to them.
 
 ---
 
