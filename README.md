@@ -144,7 +144,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 
 #### 5. Development/Building:
 - Used FlutterFlow as the platform for creating the app prototype.
-- **Prototype Link** :
+- #### Prototype Link: https://wifly.flutterflow.app
 
 #### 6. Testing and Deployment:
 - Arranged usability testing sessions with potential users. Observed interactions with the prototype, identified issues and refined the app to enhance usability, clarity, and user satisfaction.
