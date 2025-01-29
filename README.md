@@ -16,6 +16,7 @@ Digital nomads are people who travel freely while working remotely using technol
 
 ### Problem Statement:
 **The World is My Office, and Every Destination is My Inspiration.**  
+
 Digital nomads are often those with flexible jobs and an adventure-seeking personality, wanting to experience the most they can of the world. Although there are many benefits to being a digital nomad compared to traditional jobs, there are also challenges they face due to this unconventional lifestyle, mostly due to the lack of resources specifically catered towards them.
 
 After conducting online research, as well as surveys and interviews with digital nomads, here are the most common problems faced:
