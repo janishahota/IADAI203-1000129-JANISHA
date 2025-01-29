@@ -45,11 +45,14 @@ To create a prototype of a Digital Nomad Travel app as a part of the RemoteVibe.
   - **Survey Responses:** [Survey Responses](https://docs.google.com/spreadsheets/d/1tITG6otd43R4-TtBVDb-YIcT344-1RnAyPfEPYYo7Ao/edit?usp=sharing)
   - **Interview Audio Recording with Digital Nomads- Rahul and Roshini** [https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link](https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link)
 
-Conducting the Interview with Roshini and Rahul- Two digital nomads who have been travelling while working for the past 
+Conducting the Interview with Roshini and Rahul- Two digital nomads who have been travelling while working for the past 4-5 years was very informative. Working as a Startup Manager and software engineer respectively, they have managed to find a balance between exploring a new country every few months and earning adequate income to sustain their family. 
+When they're based in India, they work from 8-4 and spend their free time researching for their next trip and figuring out the necessities for at least 2 weeks. Then during their trip, they go through hassles like hotels being different than what they were advertised on apps such as Airbnb, Adago, Tripadvisor etc. Ensuring internet connectivity and finding physical sims is also a challenge. 
+Some features they remarked to be missing in most digital nomad apps were reliable networking tools to meet other digital nomads, and a master app containing all the necessary information instead of downloading seperate apps for bookings, cabs, sims, translators etc.
+
 #### 2. Research:
 - Explored existing technological solutions like Rome2Rio, Airbnb, Nomadago, Wise, Remote Year, etc.
 - Identified appealing features such as coworking space finders, real-time language translators, tour guides, event finders, and e-SIM options for inclusion in the prototype.
-- Also identified key gaps in the market such as lack of budgeting features, few money management and planning tools, as well as reliable and safe networking tools.
+- Also identified key gaps in the market such as lack of budgeting features, few money management and planning tools, lack of guaranteed  internet connectivity as well as reliable and safe networking tools.
 
 #### 3. Defining:
 - Planned resources and developed the required creative and critical thinking mindset and using brainstorming techniques such as lateral thinking, SCAMPER Board, and Morphological Analysis for idea generation.
@@ -87,6 +90,7 @@ Here is a visual representation showing how I implemented each thinking process 
 - Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. (7) I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
 - I first identified different categories of features needed for a digital nomad application. They were Networking, Health & Wellness, Travel Assistance, Financial Management, Time & Productivity, Safety, Community Building, Personalization and Entertainment.
 - I then came up with ideas under each category and reviewed each idea with my digital nomad team, who then gave me their input and suggestions, leading to the finalisation of features. The cells highlighted in green are some of the features chosen after feedback.
+- 
 <img width="787" alt="Screenshot 2025-01-28 at 7 20 27 am" src="https://github.com/user-attachments/assets/56bfc7d8-b381-4ebd-a13b-c81e13016aca" />
 
 Reasons for accepting or rejecting each cell are given in this Google sheet- [https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing)
@@ -153,7 +157,36 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 - #### Prototype Link: https://wifly.flutterflow.app
 
 #### 6. Testing and Deployment:
-- Arranged usability testing sessions with potential users. Observed interactions with the prototype, identified issues and refined the app to enhance usability, clarity, and user satisfaction.
+
+- #### 1. User Testing Sessions  
+**User Profile:** Digital nomads with varied experience levels (beginner, intermediate, expert).  
+**Devices Tested:** Web versions.  
+**Session Type:** Moderated remote testing (via Zoom/Google Meet) + in-person testing.  
+**Task Scenarios:**  
+- Navigating the app to features like Remote Cafe finders, Virtual Co-working Sessions, etc.  
+
+#### 2. Pain Points & Usability Issues  
+
+#### **Navigation Complexity**  
+- **Issue:** More than 5 seconds taken to complete tasks.  
+- **Reason:** Unfamiliar interface, confusion with UI elements.  
+- **Solution:** Make the interface more user-friendly, include icons and pictures.  
+
+#### **UI Clarity**  
+- **Issue:** 60% of users correctly interpret icons/buttons on the first attempt.  
+- **Reason:** Names of features were confusing (e.g., "Nomad Nooks").  
+- **Solution:** Make feature names more direct, ensuring easy clarity.  
+
+#### **Loading Time**  
+- **Goal:** App response time for key actions (<2s for search queries, <1s for page transitions).  
+- **Issue:** Too much delay, no back buttons contributing to excessive loading time.  
+- **Solution:** Added back buttons to every page and reduced quality of graphics.  
+
+#### 3. Gather Feedback After Changes  
+
+- **Post-Test Rating:** Users rated overall ease of use as **7/10**.  
+- **After Feedback and Changes:** Users rated overall ease of use as **9/10**.  
+- **A/B Testing:** 5/5 users preferred the newer prototype over the old one.  
 
 ---
 
