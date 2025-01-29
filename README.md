@@ -60,6 +60,7 @@ Some features they remarked to be missing in most digital nomad apps were reliab
 
 #### 3. Defining:
 - Planned resources and developed the required creative and critical thinking mindset and using brainstorming techniques such as lateral thinking, SCAMPER Board, and Morphological Analysis for idea generation.
+  
 
 **a. Conceptualising the Prototype:**
 I used various brainstorming techniques
@@ -72,6 +73,8 @@ I used various brainstorming techniques
 -***SCAMPER Method***: Used this technique to innovate by substituting, combining, adapting, modifying, putting to other uses, eliminating, and rearranging existing features in current digital nomad apps.
 ![SA CCT scamper](https://github.com/user-attachments/assets/5fd28da0-5835-426c-abdc-661e678925c1)
 ****[made using canva.com]****
+
+----
 
 **b. Developing the Mindset**
 Designing an innovative and practical app requires a mindset that combines creativity with critical thinking. I adopted the following aspects to drive my thinking process:
@@ -89,6 +92,8 @@ Designing an innovative and practical app requires a mindset that combines creat
 Here is a visual representation showing how I implemented each thinking process into my app planning.
 ![Orange and White Creative Mind Map Brainstorm](https://github.com/user-attachments/assets/555b1ea4-a4a0-449f-8903-ec159e4d24ec)
 ****[made using canva.com]****
+
+----
 
 **c. Idea Generation and Systematic Approach:**
 - Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. (7) I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
