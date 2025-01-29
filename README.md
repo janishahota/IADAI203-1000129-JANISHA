@@ -36,9 +36,9 @@ To create a prototype of a Digital Nomad Travel app as a part of the RemoteVibe.
 ---
 
 ### Approach:
-
-#### 1. Planning:
  I will  be combining the SDLC (Software Development Life Cycle) process with the stages mentioned in the project brief, to ensure all points required are covered.
+ 
+#### 1. Planning and Research:
 
 - **Understanding the Problem and Setting the Goal:**  
   Fine-tuned the idea through surveys and interviews with digital nomads to understand their experiences and challenges faced during travel.   
@@ -50,10 +50,13 @@ Conducting the Interview with Roshini and Rahul- Two digital nomads who have bee
 When they're based in India, they work from 8-4 and spend their free time researching for their next trip and figuring out the necessities for at least 2 weeks. Then during their trip, they go through hassles like hotels being different than what they were advertised on apps such as Airbnb, Adago, Tripadvisor etc. Ensuring internet connectivity and finding physical sims is also a challenge. 
 Some features they remarked to be missing in most digital nomad apps were reliable networking tools to meet other digital nomads, and a master app containing all the necessary information instead of downloading seperate apps for bookings, cabs, sims, translators etc.
 
----
-
-#### 2. Research:
-- Explored existing technological solutions like Rome2Rio, Airbnb, Nomadago, Wise, Remote Year, etc.
+#####  Existing Applications:
+- Explored existing technological solutions like:
+              - Rome2Rio: https://www.rome2rio.com/
+               -Airbnb: https://www.airbnb.co.in/
+               -Nomadago: https://www.nomadago.com/
+               -Wise: https://wise.com/
+               -Remote Year:
 - Identified appealing features such as coworking space finders, real-time language translators, tour guides, event finders, and e-SIM options for inclusion in the prototype.
 - Also identified key gaps in the market such as lack of budgeting features, few money management and planning tools, lack of guaranteed  internet connectivity as well as reliable and safe networking tools.
 
@@ -106,10 +109,14 @@ Here is a visual representation showing how I implemented each thinking process 
 
 Reasons for accepting or rejecting each cell are given in this Google sheet- [https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing)
 
--Cognitive Walkthrough: 
+#### Cognitive Walkthrough: 
 ![Customer Journey Graph](https://github.com/user-attachments/assets/28bf5d4b-d7ca-45b3-930d-83d1188a6107)
 ****[made using canva.com]****
 
+
+#### Storyboard
+![SA CCT storyboard (1)](https://github.com/user-attachments/assets/4278cd38-2d92-443c-a9b6-71ce702843e2)
+****[made using canva.com]****
 ---
 
 #### 4. Finalized Features:
