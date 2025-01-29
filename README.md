@@ -109,13 +109,15 @@ Here is a visual representation showing how I implemented each thinking process 
 
 Reasons for accepting or rejecting each cell are given in this Google sheet- [https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MINHJHsHuwO-XagMQAZ8qitgnl7aYrvdEtZSA2tnD7U/edit?usp=sharing)
 
-#### Cognitive Walkthrough: 
+#### Cognitive Walkthrough: Features to determine which best meets the needs of digital nomads
 ![Customer Journey Graph](https://github.com/user-attachments/assets/28bf5d4b-d7ca-45b3-930d-83d1188a6107)
 ****[made using canva.com]****
 
 
-#### Storyboard
+#### Storyboard: Documents all Steps 1 to 4 of the project
+
 ![SA CCT storyboard (1)](https://github.com/user-attachments/assets/4278cd38-2d92-443c-a9b6-71ce702843e2)
+
 ****[made using canva.com]****
 ---
 
