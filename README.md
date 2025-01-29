@@ -202,7 +202,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 
 ##### **-Navigation Complexity**  
 - **Issue:** More than 5 seconds taken to complete tasks.  
-- **Reason:** Unfamiliar interface, confusion with UI elements.  
+- **Reason:** Unfamiliar interface, confusion with UI elements, light background colour made headings unreadable.  
 - **Solution:** Make the interface more user-friendly, include icons and pictures.  
 
 ##### **-UI Clarity**  
@@ -223,7 +223,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 - **After Feedback and Changes:** Users rated overall ease of use as **9/10**.  
 - **A/B Testing:** 5/5 users preferred the newer prototype over the old one.  
 
-
+<img width="626" alt="Screenshot 2025-01-29 at 1 20 24 pm" src="https://github.com/user-attachments/assets/4718e200-63c2-4b41-9cd2-6c21155064a4" />
 
 ---
 
