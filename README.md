@@ -49,10 +49,14 @@ Conducting the Interview with Roshini and Rahul- Two digital nomads who have bee
 When they're based in India, they work from 8-4 and spend their free time researching for their next trip and figuring out the necessities for at least 2 weeks. Then during their trip, they go through hassles like hotels being different than what they were advertised on apps such as Airbnb, Adago, Tripadvisor etc. Ensuring internet connectivity and finding physical sims is also a challenge. 
 Some features they remarked to be missing in most digital nomad apps were reliable networking tools to meet other digital nomads, and a master app containing all the necessary information instead of downloading seperate apps for bookings, cabs, sims, translators etc.
 
+---
+
 #### 2. Research:
 - Explored existing technological solutions like Rome2Rio, Airbnb, Nomadago, Wise, Remote Year, etc.
 - Identified appealing features such as coworking space finders, real-time language translators, tour guides, event finders, and e-SIM options for inclusion in the prototype.
 - Also identified key gaps in the market such as lack of budgeting features, few money management and planning tools, lack of guaranteed  internet connectivity as well as reliable and safe networking tools.
+
+---
 
 #### 3. Defining:
 - Planned resources and developed the required creative and critical thinking mindset and using brainstorming techniques such as lateral thinking, SCAMPER Board, and Morphological Analysis for idea generation.
@@ -99,6 +103,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 ![Customer Journey Graph](https://github.com/user-attachments/assets/28bf5d4b-d7ca-45b3-930d-83d1188a6107)
 ****[made using canva.com]****
 
+---
 
 #### 4. Finalized Features:
 
@@ -151,12 +156,19 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
    - **One-Tap Emergency Button:** Connects users directly to local emergency services.  
    - **Quick Links:** Offers navigation to the nearest embassies, hospitals, and police stations.  
 
+---
 
 #### 5. Development/Building:
 - Used FlutterFlow as the platform for creating the app prototype.
+- To access the prototype click on the link given here.
 - #### Prototype Link: https://wifly.flutterflow.app
+- The prototype pages are mapped out in the wireframe below to ensure easy navigation.
+<img width="498" alt="Screenshot 2025-01-29 at 9 55 01 am" src="https://github.com/user-attachments/assets/51608681-942e-461c-a9c8-972a698db87b" />
+
+---
 
 #### 6. Testing and Deployment:
+
 
 - #### 1. User Testing Sessions  
 **User Profile:** Digital nomads with varied experience levels (beginner, intermediate, expert).  
@@ -164,6 +176,8 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 **Session Type:** Moderated remote testing (via Zoom/Google Meet) + in-person testing.  
 **Task Scenarios:**  
 - Navigating the app to features like Remote Cafe finders, Virtual Co-working Sessions, etc.  
+
+
 
 #### 2. Pain Points & Usability Issues  
 
@@ -182,13 +196,19 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 - **Issue:** Too much delay, no back buttons contributing to excessive loading time.  
 - **Solution:** Added back buttons to every page and reduced quality of graphics.  
 
+
+
 #### 3. Gather Feedback After Changes  
 
 - **Post-Test Rating:** Users rated overall ease of use as **7/10**.  
 - **After Feedback and Changes:** Users rated overall ease of use as **9/10**.  
 - **A/B Testing:** 5/5 users preferred the newer prototype over the old one.  
 
+
+
 ---
+
+
 
 ### Limitations:
 ****-Internet Dependency****: Most features, like virtual coworking and real-time translators, require stable Internet access. In areas with limited connectivity, functionality may be reduced.
