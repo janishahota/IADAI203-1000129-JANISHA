@@ -96,7 +96,7 @@ Here is a visual representation showing how I implemented each thinking process 
 ----
 
 **c. Idea Generation and Systematic Approach:**
-- Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex. (7) I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
+- Morphological analysis (MA) is a method for identifying, structuring and investigating the total set of possible relationships in a given multidimensional problem complex.  I used morphological analysis to systematically explore and combine app features. Problems were broken into smaller components to identify innovative solutions.
 - I first identified different categories of features needed for a digital nomad application. They were Networking, Health & Wellness, Travel Assistance, Financial Management, Time & Productivity, Safety, Community Building, Personalization and Entertainment.
 - I then came up with ideas under each category and reviewed each idea with my digital nomad team, who then gave me their input and suggestions, leading to the finalisation of features. The cells highlighted in green are some of the features chosen after feedback.
 - 
@@ -222,6 +222,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 
 ****-High Development Costs:**** Integrating advanced functionalities such as AI-based itinerary generation, real-time translators, and productivity tools could lead to higher development and maintenance expenses.
 
+---
 
 ### Future Scope:
 ****-Enhanced Offline Capabilities:*** Expanding offline functionalities, like downloadable maps, preloaded itineraries, and offline language databases, for use in remote areas.
@@ -231,6 +232,8 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 ****-Partnership Opportunities:**** Collaborating with local businesses, airlines, and hotels to offer discounts or rewards for app users.
 
 ****-Virtual and Augmented Reality:**** Integrating AR for immersive city tours and VR for virtual coworking spaces.
+
+---
 
 ### Results and Conclusion:
 The Digital Nomad App prototype successfully tackles the unique challenges faced by remote workers and travelers by offering a cohesive suite of features tailored for flexibility, productivity, and convenience.
