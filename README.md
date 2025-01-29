@@ -1,4 +1,4 @@
-<img width="1082" alt="Screenshot 2025-01-29 at 1 39 31 pm" src="https://github.com/user-attachments/assets/0bdce3db-51bb-43a8-9c94-93b0ae92f620" /># Digital Nomad Community App Prototype
+# Digital Nomad Community App Prototype
 
 ## Beyond the Blueprint: Crafting Innovative Prototypes with Critical and Creative Thinking
 
