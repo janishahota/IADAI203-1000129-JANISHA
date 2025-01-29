@@ -167,17 +167,17 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 
 #### 2. Pain Points & Usability Issues  
 
-#### **Navigation Complexity**  
+##### **-Navigation Complexity**  
 - **Issue:** More than 5 seconds taken to complete tasks.  
 - **Reason:** Unfamiliar interface, confusion with UI elements.  
 - **Solution:** Make the interface more user-friendly, include icons and pictures.  
 
-#### **UI Clarity**  
+##### **-UI Clarity**  
 - **Issue:** 60% of users correctly interpret icons/buttons on the first attempt.  
 - **Reason:** Names of features were confusing (e.g., "Nomad Nooks").  
 - **Solution:** Make feature names more direct, ensuring easy clarity.  
 
-#### **Loading Time**  
+##### **-Loading Time**  
 - **Goal:** App response time for key actions (<2s for search queries, <1s for page transitions).  
 - **Issue:** Too much delay, no back buttons contributing to excessive loading time.  
 - **Solution:** Added back buttons to every page and reduced quality of graphics.  
