@@ -43,11 +43,13 @@ To create a prototype of a Digital Nomad Travel app as a part of the RemoteVibe.
   Fine-tuned the idea through surveys and interviews with digital nomads to understand their experiences and challenges faced during travel.   
   - **Survey Link:** [Survey Link](https://forms.gle/518wMe3hxL6NwR2D9)  
   - **Survey Responses:** [Survey Responses](https://docs.google.com/spreadsheets/d/1tITG6otd43R4-TtBVDb-YIcT344-1RnAyPfEPYYo7Ao/edit?usp=sharing)
-  - **Interview footage** [https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link](https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link)
+  - **Interview Audio Recording with Digital Nomads- Rahul and Roshini** [https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link](https://drive.google.com/file/d/1snWki00F0CfV0IkI0IWiL0iiEyU4URjG/view?usp=drive_link)
 
+Conducting the Interview with Roshini and Rahul- Two digital nomads who have been travelling while working for the past 
 #### 2. Research:
 - Explored existing technological solutions like Rome2Rio, Airbnb, Nomadago, Wise, Remote Year, etc.
 - Identified appealing features such as coworking space finders, real-time language translators, tour guides, event finders, and e-SIM options for inclusion in the prototype.
+- Also identified key gaps in the market such as lack of budgeting features, few money management and planning tools, as well as reliable and safe networking tools.
 
 #### 3. Defining:
 - Planned resources and developed the required creative and critical thinking mindset and using brainstorming techniques such as lateral thinking, SCAMPER Board, and Morphological Analysis for idea generation.
@@ -68,9 +70,13 @@ I used various brainstorming techniques
 Designing an innovative and practical app requires a mindset that combines creativity with critical thinking. I adopted the following aspects to drive my thinking process:
 
 -***Open-Mindedness***: I welcomed diverse perspectives during surveys and interviews, leading to features like E-sim options. I also took in feedback and suggestions during my prototype development process to accommodate various groups, including multilingual support and mental wellness support.   
--***User-Centric Thinking***: Focused on solving digital nomads' pain points, such as loneliness, inconsistent routines and common troubles faced during travelling. This ensured that my prototype aligned with my target audience's requirements.         
+
+-***User-Centric Thinking***: Focused on solving digital nomads' pain points, such as loneliness, inconsistent routines and common troubles faced during travelling. This ensured that my prototype aligned with my target audience's requirements.       
+
 -***Innovation-Driven Approach***: Integrated AI-powered itinerary planners and real-time translators to stand out. Using current advanced technology to secure features not yet implemented in most digital nomad-specific tools gives me an edge in the industry.                                                                                         
--***Problem-Solving Focus***: Addressed commonly-faced challenges like unreliable internet and healthcare access with practical solutions like e-SIM options and wellness integrations.                                                                           
+
+-***Problem-Solving Focus***: Addressed commonly-faced challenges like unreliable internet and healthcare access with practical solutions like e-SIM options and wellness integrations.                       
+
 -***Adaptability***: Adjusted features based on feedback from usability tests, ensuring relevance and usability. Ensures that my application was user-approved and that the interface was accessible.
 
 Here is a visual representation showing how I implemented each thinking process into my app planning.
@@ -134,7 +140,7 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 8. **Time and Productivity Manager:**  
    A suite of tools to enhance productivity and streamline scheduling across different time zones.  
    - **Time Zone Tracker:** Visualizes time zones for easier scheduling of global meetings.  
-   - **Focus Timers:** Structured timers to help users concentrate on tasks with planned breaks.  
+   - **Focus Tasks:** Structured tasks with reminders that help the user stay focused.  
 
 9. **SOS Feature:**  
    A critical safety feature for emergency situations, providing immediate access to help and support.  
