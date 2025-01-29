@@ -1,4 +1,4 @@
-# Digital Nomad Community App Prototype
+<img width="1082" alt="Screenshot 2025-01-29 at 1 39 31 pm" src="https://github.com/user-attachments/assets/0bdce3db-51bb-43a8-9c94-93b0ae92f620" /># Digital Nomad Community App Prototype
 
 ## Beyond the Blueprint: Crafting Innovative Prototypes with Critical and Creative Thinking
 
@@ -129,17 +129,24 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 1. **Virtual Coworking Sessions:**  
    This feature creates virtual spaces where digital nomads can join video or audio coworking rooms. These rooms simulate an office environment to boost productivity and reduce loneliness.  
    - **Focus Timers:** Built-in Pomodoro-style timers to structure work sessions with breaks.  
-   - **Chat Options:** Instant messaging or voice chat within coworking sessions for quick discussions and networking opportunities.  
+   - **Chat Options:** Instant messaging or voice chat within coworking sessions for quick discussions and networking opportunities.
+   
+<img width="964" alt="Screenshot 2025-01-29 at 1 39 55 pm" src="https://github.com/user-attachments/assets/f3e016f6-fdfd-40fd-8a7f-746800eb920e" />
 
 2. **Remote Work-Friendly Café Finder:**  
    A location-based tool that helps users find reliable cafés or coworking spaces with amenities conducive to remote work.  
    - **Workspace Suggestions:** Includes user reviews, Wi-Fi speed ratings, and availability of charging ports.  
-   - **Local Recommendations:** Highlights hidden gems and lesser-known spots recommended by the local community.  
+   - **Local Recommendations:** Highlights hidden gems and lesser-known spots recommended by the local community.
+     
+<img width="1080" alt="Screenshot 2025-01-29 at 1 39 01 pm" src="https://github.com/user-attachments/assets/9e10ffb3-8976-43db-952c-720319c18226" />
 
 3. **Health and Wellness Integration:**  
    Promotes a healthy lifestyle with tools designed to support physical and mental well-being.  
    - **Meditation Library:** Offers short, guided meditation sessions (5–10 minutes) tailored for relaxation, focus, or stress relief.  
    - **Curated Fitness Center Lists:** Helps users find local gyms, yoga studios, and outdoor fitness spaces based on proximity and user reviews.  
+
+<img width="962" alt="Screenshot 2025-01-29 at 1 41 55 pm" src="https://github.com/user-attachments/assets/b201ef80-52d0-4328-96ff-e0fbdc9bc5b1" />
+
 
 4. **Real-Time Language Translators:**  
    A voice-to-text translator designed to break language barriers when traveling or working abroad.  
@@ -151,13 +158,17 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
    A travel assistant that leverages AI to create personalized itineraries based on the user’s preferences and interests.  
    - **AI-Generated Itineraries:** Suggests attractions, activities, and dining options tailored to user inputs such as duration, budget, and interests.  
    - **Dynamic Adjustments:** Updates itineraries in real time to account for weather, traffic, or schedule changes.  
-   - **Local Insights:** Includes insider tips, cultural etiquettes, and hidden spots often missed by tourists.  
+   - **Local Insights:** Includes insider tips, cultural etiquettes, and hidden spots often missed by tourists.
+     
+<img width="965" alt="Screenshot 2025-01-29 at 1 40 45 pm" src="https://github.com/user-attachments/assets/0ba49a45-144d-411c-85e9-138e2642723f" />
 
 6. **Average Cost Calculator:**  
    Location-based daily expense predictions and tailored budgeting tools.  
    - **Budgeting Tools:** Users can input their travel plans to receive tailored advice on cost-saving measures.  
    - **Currency Conversion:** Automatically converts expenses into the user’s preferred currency for easy comparison.  
-   - **Scammer Price Detection Tool:** Benchmarks prices to detect scams.  
+   - **Scammer Price Detection Tool:** Benchmarks prices to detect scams.
+     
+<img width="979" alt="Screenshot 2025-01-29 at 1 41 13 pm" src="https://github.com/user-attachments/assets/f907c8ee-4820-46f2-9660-182e728c0694" />
 
 7. **E-SIM Options:**  
    Global e-SIM providers for seamless connectivity.  
@@ -168,12 +179,17 @@ Reasons for accepting or rejecting each cell are given in this Google sheet- [ht
 8. **Time and Productivity Manager:**  
    A suite of tools to enhance productivity and streamline scheduling across different time zones.  
    - **Time Zone Tracker:** Visualizes time zones for easier scheduling of global meetings.  
-   - **Focus Tasks:** Structured tasks with reminders that help the user stay focused.  
+   - **Focus Tasks:** Structured tasks with reminders that help the user stay focused.
+   
+     <img width="964" alt="Screenshot 2025-01-29 at 1 41 34 pm" src="https://github.com/user-attachments/assets/ac7e3829-a1de-4114-98a3-158a735be538" />
+
 
 9. **SOS Feature:**  
-   A critical safety feature for emergency situations, providing immediate access to help and support.  
+   A critical safety feature for emergency situations on the home page, providing immediate access to help and support.  
    - **One-Tap Emergency Button:** Connects users directly to local emergency services.  
-   - **Quick Links:** Offers navigation to the nearest embassies, hospitals, and police stations.  
+   - **Quick Links:** Offers navigation to the nearest embassies, hospitals, and police stations.
+     
+<img width="960" alt="Screenshot 2025-01-29 at 1 42 27 pm" src="https://github.com/user-attachments/assets/8cfa3727-f3b1-42ae-b25f-700d8bfff3ec" />
 
 ---
 
